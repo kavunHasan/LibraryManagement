@@ -1,2 +1,2 @@
-# OnlineCourseSystem
-Online course web site with php [unfinished]
+# Library Management Web site
+Library Management web site with php [unfinished]
